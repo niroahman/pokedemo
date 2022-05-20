@@ -1,0 +1,16 @@
+{
+  "views": {
+    "pokedex": {
+      "countText": "Pokemonien määrä:",
+      "buttonLeft": "Poista",
+      "buttonRight": "Lisää",
+      "loading": "Ladataan..."
+    }
+  },
+  "components": {
+    "pokemonCard": {
+      "weightText": "Paino",
+      "weightUnit": "Kg"
+    }
+  }
+}

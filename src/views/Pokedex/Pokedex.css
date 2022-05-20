@@ -1,0 +1,46 @@
+html {
+  background-image: url("../../assets/pokebg.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+  background-color: green !important;
+}
+.pokedex {
+  margin: 0 auto;
+  min-height: 100vh;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 80px;
+  padding-top: 20px;
+}
+.pokemon-count {
+  font-size: 2em;
+  font-weight: 700;
+  color: #000;
+  align-self: center;
+}
+.count-button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+.locale-button-container {
+  display: flex;
+  position: absolute;
+  top: 10px;
+  right: 40px;
+  gap: 8px;
+}
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.pokemon-card-container {
+  margin: 20px;
+}

@@ -1,0 +1,16 @@
+{
+  "views": {
+    "pokedex": {
+      "countText": "Pokemon count:",
+      "buttonLeft": "Remove",
+      "buttonRight": "Add",
+      "loading": "Loading..."
+    }
+  },
+  "components": {
+    "pokemonCard": {
+      "weightText": "Weight",
+      "weightUnit": "Kg"
+    }
+  }
+}
